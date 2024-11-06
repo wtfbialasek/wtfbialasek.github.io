@@ -1,0 +1,60 @@
+
+
+
+
+.japonia {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+div{
+
+    max-width: 600px;
+    margin: auto;
+
+
+
+
+
+}
+
+
+p{
+color: black;
+font-size: xx-large;
+font-family: ,;
+
+
+}
+
+
+h1{
+    color: black ;
+    font-size: xx-large;
+    font-family: 'Times New Roman';
+    
+    
+    }
+
+body{
+
+    color:midnightblue;
+
+    background-color: rgba(255, 153, 0, 0.945);
+}
+
+img{
+    width:200px;
+}
+
+#maozedong{
+    color: blueviolet;
+    font-family: 'Times New Roman';
+
+
+
+}
+
+
